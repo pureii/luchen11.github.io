@@ -1,11 +1,11 @@
 name: 陆沉
-description: Blogging about stuffs
+description: 分享技术和快乐
 meta_description: "分享技术和快乐"
 
 markdown: kramdown
 highlighter: pygments
-logo: false
-paginate: 15
+logo: true
+paginate: 20
 baseurl: /
 domain_name: 'https://luchen11.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
