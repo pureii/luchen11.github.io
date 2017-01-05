@@ -1,11 +1,11 @@
-name: 陆沉Blog
-description: Blogging about stuffs
-meta_description: "分享技术和快乐"
+name: 闄嗘矇
+description: 鍒嗕韩鎶�鏈拰蹇箰
+meta_description: "鍒嗕韩鎶�鏈拰蹇箰"
 
 markdown: kramdown
 highlighter: pygments
-logo: false
-paginate: 15
+logo: true
+paginate: 20
 baseurl: /
 domain_name: 'https://luchen11.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
@@ -13,4 +13,4 @@ gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            '/rss.xml'
-author:         '陆沉'
+author:         'luchen'
