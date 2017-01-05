@@ -2,7 +2,7 @@ name: 陆沉
 description: 分享技术和快乐
 meta_description: "分享技术和快乐"
 
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
 extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
