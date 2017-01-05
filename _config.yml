@@ -1,6 +1,6 @@
-name: 陆沉Blog
+name: 闄嗘矇
 description: Blogging about stuffs
-meta_description: "分享技术和快乐"
+meta_description: "鍒嗕韩鎶�鏈拰蹇箰"
 
 markdown: kramdown
 highlighter: pygments
@@ -13,4 +13,4 @@ gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            '/rss.xml'
-author:         '陆沉'
+author:         'luchen'
