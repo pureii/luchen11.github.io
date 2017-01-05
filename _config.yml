@@ -2,9 +2,12 @@ name: 陆沉
 description: 分享技术和快乐
 meta_description: "分享技术和快乐"
 
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
 highlighter: pygments
-logo: true
+logo: false
 paginate: 20
 baseurl: /
 domain_name: 'https://luchen11.github.io'
