@@ -406,13 +406,13 @@ int main(int argc, char **argv)
 
 <p>指针的步长这个概念是指一个指针进行&emsp;+ 1&emsp;时(或者是自增)，它的数值的变化量，也就是说，它所保存的数值变化量。
 我们举一个例子就能很好的理解。
-<code>C
+
+<div><pre><code class="language-C">
 int data = 11;
 int *int_ptr = &amp;data;
 printf(&quot;%p\n&quot;, int_ptr);
 printf(&quot;%p\n&quot;, int_ptr + 1);
-</code>
-	
+</code></pre></div>
 结果输出如下
 	
 <code>
