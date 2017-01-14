@@ -4,6 +4,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url><loc>http://luchen11.site/</loc></url>
+<url><loc>http://luchen11.site/inex.html</loc></url>
+<url><loc>http://luchen11.site/_layouts/post.html</loc></url>
 <url><loc>http://luchen11.site/essay/2017/01/10/void-%E6%8C%87%E9%92%88(void-).html</loc></url>
 <url><loc>http://luchen11.site/essay/2017/01/06/welcome.html</loc></url>
 </urlset>
