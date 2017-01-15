@@ -1,4 +1,4 @@
-name: 陆沉
+name: PUREII
 description: 分享技术和快乐
 meta_description: "分享技术和快乐"
 
@@ -10,10 +10,10 @@ highlighter: rouge
 logo: true
 paginate: 20
 baseurl: /
-domain_name: 'https://luchen11.github.io'
+domain_name: 'https://pureii.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            '/rss.xml'
-author:         'luchen'
+author:         'pureii'
